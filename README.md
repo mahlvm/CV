@@ -94,11 +94,20 @@ Building web applications utilising Python and JavaScript as the primary program
 
 
 
-## Hobbies
+## Course
 
-#### Graphic Design
+**iOS & Swift - Complete iOS App Development Bootcamp, Udemy** (May 2023)  
 
-- Designed numerous UIs, logos, and infographics, primarily using Figma.
 
-Examples:
-1. 
+## Technical Skills
+
+- Python, Flask
+- JavaScript, Jest, Node.js, Express, React
+- Swift, Swift UI
+- HTML, CSS, Bootstrap
+- SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose,
+- Git, GitHub
+- Pair Programming
+- Unit and Integration Test
+- Figma, Adobe Photoshop, Illustrator
+
