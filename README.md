@@ -13,12 +13,12 @@ I am dedicated to becoming a versatile developer, merging my previous experience
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Bloom** | This collaborative 2-week group project uses Python/Flask and PostgreSQL in the backend and JavaScript, React, and React Bootstrap in the frontend. The platform enables users to create accounts, edit profiles, create their plant library, offer services, accept services, view offered services, manage their requests, and communicate in a chat. |  Python/Flask and PostgreSQL, JavaScript, React, React Bootstrap
-| **Acebook**            | This collaborative 2-week group project leverages the MERN stack, with MongoDB for the database, Express.js and Node.js for the backend, and a frontend powered by JavaScript, HTML, CSS, and React. The platform enables users to create accounts, share posts with multimedia content, edit profiles.  | JavaScript, Node.js, React, MongoDB, Express.js, HTML, CSS |
+| Name                         | Description       | Tech/tools        | Link       |
+| ---------------------------- | ----------------- | ----------------- |----------------- |
+| **Bloom** | This collaborative 2-week group project uses Python/Flask and PostgreSQL in the backend and JavaScript, React, and React Bootstrap in the frontend. The platform enables users to create accounts, edit profiles, create their plant library, offer services, accept services, view offered services, manage their requests, and communicate in a chat. |  Python/Flask and PostgreSQL, JavaScript, React, React Bootstrap | https://github.com/mahlvm/bloom-backend https://github.com/mahlvm/bloom-frontend
+| **Acebook**            | This collaborative 2-week group project leverages the MERN stack, with MongoDB for the database, Express.js and Node.js for the backend, and a frontend powered by JavaScript, HTML, CSS, and React. The platform enables users to create accounts, share posts with multimedia content, edit profiles.  | JavaScript, Node.js, React, MongoDB, Express.js, HTML, CSS | https://github.com/mahlvm/ACEBOOK_FINAL
 | **Mobile Acebook** | Developing a SwiftUI app that integrates with an existing Acebook backend using RESTful APIs. | Swift, SwiftUI  |
-| **Makersbnb** | This collaborative group project uses Python, Flask, PostgreSQL, Pytest, HTML/CSS, Pair Programming, Object-Oriented Programming, and Test-Driven Development. The result is an Airbnb-like app with an inclusive set of features, including a listing homepage, account creation, built-in booking functionality, and the ability to post listings.|Python, Flask, PostgreSQL, Pytest, HTML/CSS, Pair Programming, Object Oriented Programming, Test-Driven Development.
+| **Makersbnb** | This collaborative group project uses Python, Flask, PostgreSQL, Pytest, HTML/CSS, Pair Programming, Object-Oriented Programming, and Test-Driven Development. The result is an Airbnb-like app with an inclusive set of features, including a listing homepage, account creation, built-in booking functionality, and the ability to post listings.|Python, Flask, PostgreSQL, Pytest, HTML/CSS, Pair Programming, Object Oriented Programming, Test-Driven Development | https://github.com/mahlvm/makersbnb-final
 
 ## Education
 
