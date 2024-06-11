@@ -95,7 +95,7 @@ Building web applications utilising Python and JavaScript as the primary program
 
 
 ## Course
-- **C# Fundamentals and Web Application** (Jun 2024) 
+- **C# Fundamentals and Web Application, Makers Academy** (Jun 2024) 
 - **TypeScript, Codecademy** (May 2024) 
 - **iOS & Swift - Complete iOS App Development Bootcamp, Udemy** (May 2023) 
 
