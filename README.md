@@ -95,15 +95,17 @@ Building web applications utilising Python and JavaScript as the primary program
 
 
 ## Course
-
-**iOS & Swift - Complete iOS App Development Bootcamp, Udemy** (May 2023)  
+**TC# Fundamentals and Web Application** (Jun 2024) 
+**TypeScript, Codecademy** (May 2024) 
+**iOS & Swift - Complete iOS App Development Bootcamp, Udemy** (May 2023) 
 
 
 ## Technical Skills
 
 - Python, Flask
-- JavaScript, Jest, Node.js, Express, React
+- JavaScript, TypeScript, Jest, Node.js, Express, React
 - Swift, Swift UI
+- C#, .Net, Asp.Net, NUnit
 - HTML, CSS, Bootstrap
 - SQL, Postgres, TablePlus, MongoDB, MongoDB Compass, Mongoose,
 - Git, GitHub
